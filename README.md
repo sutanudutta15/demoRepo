@@ -1,4 +1,4 @@
 # demoRepo
 <br>
 Practice
-Author - Sutanu Dutta
+Author - Sutanu Dutta (Sutu)
